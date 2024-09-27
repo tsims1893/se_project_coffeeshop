@@ -13,4 +13,4 @@ This is the second project of the Software Engineering program at TripleTen. It 
 
 ## Plan on improving the project
 
-Add your ideas here :)
+Some improvements I would implement in the future include mobile web optimization, some elements do not translate well on smaller screens. Another improvement would be clickable menu items to dispaly details about each product ex. nutrietion facts etc.
