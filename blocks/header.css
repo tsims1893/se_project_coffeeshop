@@ -7,6 +7,7 @@
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
+  z-index: 1;
 }
 
 .header__image {
@@ -24,14 +25,13 @@
   line-height: 72px;
   letter-spacing: -0.6px;
   max-width: 729px;
+  z-index: 2;
 }
 
 .header__span-accent {
   display: block;
   font-family: "Noto Serif", "Times New Roman", serif;
   font-style: italic;
-  font-size: 60px;
-  line-height: 72px;
   color: #3f96f3;
 }
 
@@ -41,6 +41,7 @@
   font-size: 20px;
   line-height: 30px;
   max-width: 683px;
+  z-index: 2;
 }
 
 .header__footer {
